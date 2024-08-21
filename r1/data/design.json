@@ -1,0 +1,2450 @@
+{
+    "categorical_variable_reference": {
+        "AdjacentTo": [
+            "attic",
+            "attic - conditioned",
+            "attic - unconditioned",
+            "attic - unvented",
+            "attic - vented",
+            "basement",
+            "basement - conditioned",
+            "basement - unconditioned",
+            "conditioned space",
+            "crawlspace",
+            "crawlspace - conditioned",
+            "crawlspace - unconditioned",
+            "crawlspace - unvented",
+            "crawlspace - vented",
+            "garage",
+            "garage - conditioned",
+            "garage - unconditioned",
+            "ground",
+            "living space",
+            "manufactured home underbelly",
+            "other",
+            "other heated space",
+            "other housing unit",
+            "other housing unit above",
+            "other housing unit below",
+            "other multifamily buffer space",
+            "other non-freezing space",
+            "outside",
+            "unconditioned space"
+        ],
+        "AirDistributionType": [
+            "regular velocity",
+            "high velocity",
+            "gravity"
+        ],
+        "BuildingAirLeakageUnit": [
+            "CFM",
+            "CFMnatural",
+            "ACH",
+            "ACHnatural"
+        ],
+        "ClimateZoneIECC": [
+            "1A",
+            "1B",
+            "1C",
+            "2A",
+            "2B",
+            "2C",
+            "3A",
+            "3B",
+            "3C",
+            "4A",
+            "4B",
+            "4C",
+            "5A",
+            "5B",
+            "5C",
+            "6A",
+            "6B",
+            "6C",
+            "7",
+            "8"
+        ],
+        "ClothesDryerControlType": [
+            "timer",
+            "moisture",
+            "temperature"
+        ],
+        "CompressorType": [
+            "single stage",
+            "two stage",
+            "variable speed"
+        ],
+        "CoolingEfficiencyUnits": [
+            "SEER",
+            "SEER2",
+            "CEER",
+            "EER",
+            "EER2",
+            "COP",
+            "kW/ton"
+        ],
+        "CoolingSystemType": [
+            "central air conditioner",
+            "mini-split",
+            "room air conditioner",
+            "evaporative cooler",
+            "other"
+        ],
+        "DuctLeakageTestUnitofMeasure": [
+            "CFM50",
+            "CFM25",
+            "CFM per Std 152",
+            "Percent"
+        ],
+        "DuctLeakageTotalOrToOutside": [
+            "to outside",
+            "total"
+        ],
+        "DuctType": [
+            "supply",
+            "return"
+        ],
+        "FuelType": [
+            "electricity",
+            "renewable electricity",
+            "natural gas",
+            "renewable natural gas",
+            "fuel oil",
+            "fuel oil 1",
+            "fuel oil 2",
+            "fuel oil 4",
+            "fuel oil 5/6",
+            "district steam",
+            "district hot water",
+            "district chilled water",
+            "solar hot water",
+            "propane",
+            "kerosene",
+            "diesel",
+            "coal",
+            "anthracite coal",
+            "bituminous coal",
+            "coke",
+            "wood",
+            "wood pellets",
+            "combination",
+            "other"
+        ],
+        "HPXMLBoolean": [
+            "false",
+            "true"
+        ],
+        "HeatPumpType": [
+            "water-to-air",
+            "water-to-water",
+            "air-to-air",
+            "air-to-water",
+            "mini-split",
+            "ground-to-air",
+            "ground-to-water"
+        ],
+        "HeatingEfficiencyUnits": [
+            "HSPF",
+            "HSPF2",
+            "COP",
+            "AFUE",
+            "Percent"
+        ],
+        "HydronicDistributionType": [
+            "radiator",
+            "baseboard",
+            "radiant floor",
+            "radiant ceiling",
+            "other"
+        ],
+        "InstallationType": [
+            "cavity",
+            "continuous",
+            "continuous - interior",
+            "continuous - exterior"
+        ],
+        "LaundryMachineLocation": [
+            "attic",
+            "attic - conditioned",
+            "attic - unconditioned",
+            "attic - unvented",
+            "attic - vented",
+            "basement",
+            "basement - conditioned",
+            "basement - unconditioned",
+            "conditioned space",
+            "crawlspace",
+            "crawlspace - conditioned",
+            "crawlspace - unconditioned",
+            "crawlspace - unvented",
+            "crawlspace - vented",
+            "manufactured home belly",
+            "garage",
+            "garage - conditioned",
+            "garage - unconditioned",
+            "living space",
+            "mechanical closet",
+            "other exterior",
+            "other heated space",
+            "other housing unit",
+            "other interior",
+            "other multifamily buffer space",
+            "other non-freezing space",
+            "roof deck",
+            "unconditioned space"
+        ],
+        "LightingLocation": [
+            "interior",
+            "exterior",
+            "garage",
+            "common area"
+        ],
+        "PlugLoadType": [
+            "TV plasma",
+            "TV CRT",
+            "TV other",
+            "computer",
+            "space heater",
+            "water bed",
+            "aquarium",
+            "electric vehicle charging",
+            "well pump",
+            "sauna",
+            "other"
+        ],
+        "RefrigeratorLocation": [
+            "basement",
+            "basement - conditioned",
+            "basement - unconditioned",
+            "conditioned space",
+            "garage",
+            "garage - conditioned",
+            "garage - unconditioned",
+            "kitchen",
+            "living space",
+            "other",
+            "other heated space",
+            "other housing unit",
+            "other multifamily buffer space",
+            "other non-freezing space",
+            "unconditioned space"
+        ],
+        "ResidentialFacilityType": [
+            "single-family detached",
+            "single-family attached",
+            "manufactured home",
+            "2-4 unit building",
+            "5+ unit building",
+            "multi-family - uncategorized",
+            "multi-family - town homes",
+            "multi-family - condos",
+            "apartment unit",
+            "studio unit",
+            "other",
+            "unknown"
+        ],
+        "RoofColor": [
+            "light",
+            "medium",
+            "medium dark",
+            "dark",
+            "reflective"
+        ],
+        "RoofType": [
+            "shingles",
+            "slate or tile shingles",
+            "wood shingles or shakes",
+            "asphalt or fiberglass shingles",
+            "metal surfacing",
+            "expanded polystyrene sheathing",
+            "plastic/rubber/synthetic sheeting",
+            "concrete",
+            "cool roof",
+            "green roof",
+            "no one major type",
+            "other"
+        ],
+        "Siding": [
+            "wood siding",
+            "stucco",
+            "synthetic stucco",
+            "vinyl siding",
+            "aluminum siding",
+            "brick veneer",
+            "asbestos siding",
+            "fiber cement siding",
+            "composite shingle siding",
+            "masonite siding",
+            "other",
+            "none"
+        ],
+        "ThermostatType": [
+            "programmable thermostat",
+            "manual thermostat",
+            "digital thermostat",
+            "timer",
+            "EMCS",
+            "other"
+        ],
+        "UnitLocation": [
+            "attic",
+            "attic - conditioned",
+            "attic - unconditioned",
+            "attic - unvented",
+            "attic - vented",
+            "basement",
+            "basement - conditioned",
+            "basement - unconditioned",
+            "conditioned space",
+            "crawlspace",
+            "crawlspace - conditioned",
+            "crawlspace - unconditioned",
+            "crawlspace - unvented",
+            "crawlspace - vented",
+            "manufactured home belly",
+            "garage",
+            "garage - conditioned",
+            "garage - unconditioned",
+            "living space",
+            "mechanical closet",
+            "other exterior",
+            "other heated space",
+            "other housing unit",
+            "other interior",
+            "other multifamily buffer space",
+            "other non-freezing space",
+            "roof deck",
+            "unconditioned space"
+        ],
+        "WaterFixtureType": [
+            "faucet",
+            "shower head",
+            "other"
+        ],
+        "WaterHeaterType": [
+            "storage water heater",
+            "dedicated boiler with storage tank",
+            "instantaneous water heater",
+            "heat pump water heater",
+            "split heat pump water heater",
+            "space-heating boiler with storage tank",
+            "space-heating boiler with tankless coil"
+        ]
+    },
+    "categorical_variable_tree": {
+        "HPXML": {
+            "Building": {
+                "BuildingDetails": {
+                    "Appliances": {
+                        "ClothesDryer": {
+                            "CombinedEnergyFactor": {
+                                "__reference__": "__double__"
+                            },
+                            "ControlType": {
+                                "__reference__": "ClothesDryerControlType"
+                            },
+                            "FuelType": {
+                                "__reference__": "FuelType"
+                            },
+                            "Location": {
+                                "__reference__": "LaundryMachineLocation"
+                            },
+                            "extension": {
+                                "IsVented": {
+                                    "__reference__": "HPXMLBoolean"
+                                },
+                                "VentedFlowRate": {
+                                    "__reference__": "__double__"
+                                }
+                            }
+                        },
+                        "ClothesWasher": {
+                            "Capacity": {
+                                "__reference__": "__double__"
+                            },
+                            "IntegratedModifiedEnergyFactor": {
+                                "__reference__": "__double__"
+                            },
+                            "LabelAnnualGasCost": {
+                                "__reference__": "__double__"
+                            },
+                            "LabelElectricRate": {
+                                "__reference__": "__double__"
+                            },
+                            "LabelGasRate": {
+                                "__reference__": "__double__"
+                            },
+                            "LabelUsage": {
+                                "__reference__": "__double__"
+                            },
+                            "RatedAnnualkWh": {
+                                "__reference__": "__double__"
+                            },
+                            "FuelType": {
+                                "__reference__": "FuelType"
+                            },
+                            "Location": {
+                                "__reference__": "LaundryMachineLocation"
+                            }
+                        },
+                        "CookingRange": {
+                            "FuelType": {
+                                "__reference__": "FuelType"
+                            },
+                            "IsInduction": {
+                                "__reference__": "HPXMLBoolean"
+                            },
+                            "Location": {
+                                "__reference__": "RefrigeratorLocation"
+                            }
+                        },
+                        "Oven": {
+                            "IsConvection": {
+                                "__reference__": "HPXMLBoolean"
+                            }
+                        },
+                        "Refrigerator[Refrigerator{index}]": {
+                            "Location": {
+                                "__reference__": "RefrigeratorLocation"
+                            },
+                            "PrimaryIndicator": {
+                                "__reference__": "HPXMLBoolean"
+                            },
+                            "RatedAnnualkWh": {
+                                "__reference__": "__double__"
+                            }
+                        }
+                    },
+                    "BuildingSummary": {
+                        "BuildingOccupancy": {
+                            "NumberofOccupants": {
+                                "__reference__": "__double__"
+                            },
+                            "NumberofResidents": {
+                                "__reference__": "__double__"
+                            }
+                        },
+                        "BuildingConstruction": {
+                            "AverageCeilingHeight": {
+                                "__reference__": "__double__"
+                            },
+                            "ConditionedFloorArea": {
+                                "__reference__": "__double__"
+                            },
+                            "NumberofBathrooms": {
+                                "__reference__": "__double__"
+                            },
+                            "NumberofBedrooms": {
+                                "__reference__": "__double__"
+                            },
+                            "NumberofConditionedFloors": {
+                                "__reference__": "__double__"
+                            },
+                            "NumberofConditionedFloorsAboveGrade": {
+                                "__reference__": "__double__"
+                            },
+                            "ResidentialFacilityType": {
+                                "__reference__": "ResidentialFacilityType"
+                            }
+                        }
+                    },
+                    "ClimateandRiskZones": {
+                        "ClimateZoneIECC": {
+                            "ClimateZone": {
+                                "__reference__": "ClimateZoneIECC"
+                            },
+                            "Year": {
+                                "__reference__": "__int__"
+                            }
+                        }
+                    },
+                    "Enclosure": {
+                        "AirInfiltration": {
+                            "AirInfiltrationMeasurement": {
+                                "BuildingAirLeakage": {
+                                    "AirLeakage": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "UnitofMeasure": {
+                                        "__reference__": "BuildingAirLeakageUnit"
+                                    }
+                                },
+                                "HousePressure": {
+                                    "__reference__": "__double__"
+                                }
+                            }
+                        },
+                        "Attics": {
+                            "Attic[AtticVented{index}]": {
+                                "AtticType": {
+                                    "Attic": {
+                                        "Vented": {
+                                            "__reference__": "HPXMLBoolean"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Doors": {
+                            "Door[DoorNorth{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Azimuth": {
+                                    "__reference__": "__double__"
+                                },
+                                "RValue": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "Door[DoorSouth{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Azimuth": {
+                                    "__reference__": "__double__"
+                                },
+                                "RValue": {
+                                    "__reference__": "__double__"
+                                }
+                            }
+                        },
+                        "FoundationWalls": {
+                            "FoundationWall[FoundationWallBasementConditionedExposed{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "DepthBelowGrade": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Height": {
+                                    "__reference__": "__double__"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Thickness": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "FoundationWall[FoundationWallBasementConditionedShared{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "DepthBelowGrade": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Height": {
+                                    "__reference__": "__double__"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Thickness": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "FoundationWall[FoundationWallBasementConditionedToCrawlVented{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "DepthBelowGrade": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Height": {
+                                    "__reference__": "__double__"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Thickness": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "FoundationWall[FoundationWallCrawlspaceVentedExposed{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "DepthBelowGrade": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Height": {
+                                    "__reference__": "__double__"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Thickness": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "FoundationWall[FoundationWallCrawlspaceVentedShared{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "DepthBelowGrade": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Height": {
+                                    "__reference__": "__double__"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Thickness": {
+                                    "__reference__": "__double__"
+                                }
+                            }
+                        },
+                        "Foundations": {
+                            "Foundation[BasementConditioned{index}]": {
+                                "FoundationType": {
+                                    "Basement": {
+                                        "Conditioned": {
+                                            "__reference__": "HPXMLBoolean"
+                                        }
+                                    }
+                                }
+                            },
+                            "Foundation[CrawlspaceVented{index}]": {
+                                "FoundationType": {
+                                    "Crawlspace": {
+                                        "Vented": {
+                                            "__reference__": "HPXMLBoolean"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "FrameFloors": {
+                            "FrameFloor[FloorAboveConditionedBasement{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                }
+                            },
+                            "FrameFloor[FloorAboveVentedCrawl{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                }
+                            },
+                            "FrameFloor[FloorBelowAttic{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                }
+                            }
+                        },
+                        "RimJoists": {
+                            "RimJoist[RimJoistBasementConditionedExposed{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Emittance": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "SolarAbsorptance": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "RimJoist[RimJoistBasementConditionedShared{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Emittance": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "SolarAbsorptance": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "RimJoist[RimJoistCrawlspaceVentedExposed{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Emittance": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "SolarAbsorptance": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "RimJoist[RimJoistCrawlspaceVentedShared{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Emittance": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "SolarAbsorptance": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "RimJoist[RimJoistStory{index}Exposed]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Emittance": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "SolarAbsorptance": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "RimJoist[RimJoistStory{index}Shared]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Emittance": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "SolarAbsorptance": {
+                                    "__reference__": "__double__"
+                                }
+                            }
+                        },
+                        "Roofs": {
+                            "Roof[Roof{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Emittance": {
+                                    "__reference__": "__double__"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Pitch": {
+                                    "__reference__": "__double__"
+                                },
+                                "RadiantBarrier": {
+                                    "__reference__": "HPXMLBoolean"
+                                },
+                                "RoofColor": {
+                                    "__reference__": "RoofColor"
+                                },
+                                "RoofType": {
+                                    "__reference__": "RoofType"
+                                }
+                            }
+                        },
+                        "Slabs": {
+                            "Slab[SlabOfBasementConditioned{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExposedPerimeter": {
+                                    "__reference__": "__double__"
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "PerimeterInsulation": {
+                                    "Layer": {
+                                        "InstallationType": {
+                                            "__reference__": "InstallationType"
+                                        },
+                                        "NominalRValue": {
+                                            "__reference__": "__double__"
+                                        }
+                                    }
+                                },
+                                "PerimeterInsulationDepth": {
+                                    "__reference__": "__double__"
+                                },
+                                "Thickness": {
+                                    "__reference__": "__double__"
+                                },
+                                "UnderSlabInsulation": {
+                                    "Layer": {
+                                        "InstallationType": {
+                                            "__reference__": "InstallationType"
+                                        },
+                                        "NominalRValue": {
+                                            "__reference__": "__double__"
+                                        }
+                                    }
+                                },
+                                "UnderSlabInsulationWidth": {
+                                    "__reference__": "__double__"
+                                },
+                                "extension": {
+                                    "CarpetFraction": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "CarpetRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                }
+                            },
+                            "Slab[SlabOnGrade{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "DepthBelowGrade": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExposedPerimeter": {
+                                    "__reference__": "__double__"
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "PerimeterInsulation": {
+                                    "Layer": {
+                                        "InstallationType": {
+                                            "__reference__": "InstallationType"
+                                        },
+                                        "NominalRValue": {
+                                            "__reference__": "__double__"
+                                        }
+                                    }
+                                },
+                                "PerimeterInsulationDepth": {
+                                    "__reference__": "__double__"
+                                },
+                                "Thickness": {
+                                    "__reference__": "__double__"
+                                },
+                                "UnderSlabInsulation": {
+                                    "Layer": {
+                                        "InstallationType": {
+                                            "__reference__": "InstallationType"
+                                        },
+                                        "NominalRValue": {
+                                            "__reference__": "__double__"
+                                        }
+                                    }
+                                },
+                                "UnderSlabInsulationWidth": {
+                                    "__reference__": "__double__"
+                                },
+                                "extension": {
+                                    "CarpetFraction": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "CarpetRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                }
+                            },
+                            "Slab[SlabUnderCrawlspaceVented{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExposedPerimeter": {
+                                    "__reference__": "__double__"
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "PerimeterInsulation": {
+                                    "Layer": {
+                                        "InstallationType": {
+                                            "__reference__": "InstallationType"
+                                        },
+                                        "NominalRValue": {
+                                            "__reference__": "__double__"
+                                        }
+                                    }
+                                },
+                                "PerimeterInsulationDepth": {
+                                    "__reference__": "__double__"
+                                },
+                                "Thickness": {
+                                    "__reference__": "__double__"
+                                },
+                                "UnderSlabInsulation": {
+                                    "Layer": {
+                                        "InstallationType": {
+                                            "__reference__": "InstallationType"
+                                        },
+                                        "NominalRValue": {
+                                            "__reference__": "__double__"
+                                        }
+                                    }
+                                },
+                                "UnderSlabInsulationWidth": {
+                                    "__reference__": "__double__"
+                                },
+                                "extension": {
+                                    "CarpetFraction": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "CarpetRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                }
+                            }
+                        },
+                        "Walls": {
+                            "Wall[WallExposed{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Emittance": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Siding": {
+                                    "__reference__": "Siding"
+                                },
+                                "SolarAbsorptance": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "Wall[WallShared{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Emittance": {
+                                    "__reference__": "__double__"
+                                },
+                                "ExteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "Insulation": {
+                                    "AssemblyEffectiveRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "InteriorAdjacentTo": {
+                                    "__reference__": "AdjacentTo"
+                                },
+                                "SolarAbsorptance": {
+                                    "__reference__": "__double__"
+                                },
+                                "WallType": {}
+                            }
+                        },
+                        "Windows": {
+                            "Window[WindowEast{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Azimuth": {
+                                    "__reference__": "__double__"
+                                },
+                                "SHGC": {
+                                    "__reference__": "__double__"
+                                },
+                                "UFactor": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "Window[WindowNorthEast{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Azimuth": {
+                                    "__reference__": "__double__"
+                                },
+                                "SHGC": {
+                                    "__reference__": "__double__"
+                                },
+                                "UFactor": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "Window[WindowNorthWest{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Azimuth": {
+                                    "__reference__": "__double__"
+                                },
+                                "SHGC": {
+                                    "__reference__": "__double__"
+                                },
+                                "UFactor": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "Window[WindowNorth{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Azimuth": {
+                                    "__reference__": "__double__"
+                                },
+                                "SHGC": {
+                                    "__reference__": "__double__"
+                                },
+                                "UFactor": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "Window[WindowSouthEast{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Azimuth": {
+                                    "__reference__": "__double__"
+                                },
+                                "SHGC": {
+                                    "__reference__": "__double__"
+                                },
+                                "UFactor": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "Window[WindowSouthWest{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Azimuth": {
+                                    "__reference__": "__double__"
+                                },
+                                "SHGC": {
+                                    "__reference__": "__double__"
+                                },
+                                "UFactor": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "Window[WindowSouth{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Azimuth": {
+                                    "__reference__": "__double__"
+                                },
+                                "SHGC": {
+                                    "__reference__": "__double__"
+                                },
+                                "UFactor": {
+                                    "__reference__": "__double__"
+                                }
+                            },
+                            "Window[WindowWest{index}]": {
+                                "Area": {
+                                    "__reference__": "__double__"
+                                },
+                                "Azimuth": {
+                                    "__reference__": "__double__"
+                                },
+                                "SHGC": {
+                                    "__reference__": "__double__"
+                                },
+                                "UFactor": {
+                                    "__reference__": "__double__"
+                                }
+                            }
+                        }
+                    },
+                    "Lighting": {
+                        "LightingGroup[LightingExteriorCFL{index}]": {
+                            "FractionofUnitsInLocation": {
+                                "__reference__": "__double__"
+                            },
+                            "Location": {
+                                "__reference__": "LightingLocation"
+                            }
+                        },
+                        "LightingGroup[LightingExteriorLED{index}]": {
+                            "FractionofUnitsInLocation": {
+                                "__reference__": "__double__"
+                            },
+                            "Location": {
+                                "__reference__": "LightingLocation"
+                            }
+                        },
+                        "LightingGroup[LightingExteriorLFL{index}]": {
+                            "FractionofUnitsInLocation": {
+                                "__reference__": "__double__"
+                            },
+                            "Location": {
+                                "__reference__": "LightingLocation"
+                            }
+                        },
+                        "LightingGroup[LightingGarageCFL{index}]": {
+                            "FractionofUnitsInLocation": {
+                                "__reference__": "__double__"
+                            },
+                            "Location": {
+                                "__reference__": "LightingLocation"
+                            }
+                        },
+                        "LightingGroup[LightingGarageLED{index}]": {
+                            "FractionofUnitsInLocation": {
+                                "__reference__": "__double__"
+                            },
+                            "Location": {
+                                "__reference__": "LightingLocation"
+                            }
+                        },
+                        "LightingGroup[LightingGarageLFL{index}]": {
+                            "FractionofUnitsInLocation": {
+                                "__reference__": "__double__"
+                            },
+                            "Location": {
+                                "__reference__": "LightingLocation"
+                            }
+                        },
+                        "LightingGroup[LightingInteriorCFL{index}]": {
+                            "FractionofUnitsInLocation": {
+                                "__reference__": "__double__"
+                            },
+                            "Location": {
+                                "__reference__": "LightingLocation"
+                            }
+                        },
+                        "LightingGroup[LightingInteriorLED{index}]": {
+                            "FractionofUnitsInLocation": {
+                                "__reference__": "__double__"
+                            },
+                            "Location": {
+                                "__reference__": "LightingLocation"
+                            }
+                        },
+                        "LightingGroup[LightingInteriorLFL{index}]": {
+                            "FractionofUnitsInLocation": {
+                                "__reference__": "__double__"
+                            },
+                            "Location": {
+                                "__reference__": "LightingLocation"
+                            }
+                        }
+                    },
+                    "MiscLoads": {
+                        "PlugLoad[PlugLoad{index}]": {
+                            "PlugLoadType": {
+                                "__reference__": "PlugLoadType"
+                            }
+                        }
+                    },
+                    "Systems": {
+                        "HVAC": {
+                            "HVACControl": {
+                                "ControlType": {
+                                    "__reference__": "ThermostatType"
+                                },
+                                "SetbackTempHeatingSeason": {
+                                    "__reference__": "__double__"
+                                },
+                                "SetpointTempCoolingSeason": {
+                                    "__reference__": "__double__"
+                                },
+                                "SetpointTempHeatingSeason": {
+                                    "__reference__": "__double__"
+                                },
+                                "SetupTempCoolingSeason": {
+                                    "__reference__": "__double__"
+                                },
+                                "TotalSetbackHoursperWeekHeating": {
+                                    "__reference__": "__double__"
+                                },
+                                "TotalSetupHoursperWeekCooling": {
+                                    "__reference__": "__double__"
+                                },
+                                "extension": {
+                                    "SetbackStartHourHeating": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "SetupStartHourCooling": {
+                                        "__reference__": "__double__"
+                                    }
+                                }
+                            },
+                            "HVACDistribution[HVACDistributionAir{index}]": {
+                                "ConditionedFloorAreaServed": {
+                                    "__reference__": "__double__"
+                                },
+                                "DistributionSystemType": {
+                                    "AirDistribution": {
+                                        "AirDistributionType": {
+                                            "__reference__": "AirDistributionType"
+                                        },
+                                        "DuctLeakageMeasurement[HVACDistributionAir{index2}Return]": {
+                                            "DuctInsulationRValue": {
+                                                "__reference__": "__double__"
+                                            },
+                                            "DuctLeakage": {
+                                                "TotalOrToOutside": {
+                                                    "__reference__": "DuctLeakageTotalOrToOutside"
+                                                },
+                                                "Units": {
+                                                    "__reference__": "DuctLeakageTestUnitofMeasure"
+                                                },
+                                                "Value": {
+                                                    "__reference__": "__double__"
+                                                }
+                                            },
+                                            "DuctType": {
+                                                "__reference__": "DuctType"
+                                            }
+                                        },
+                                        "DuctLeakageMeasurement[HVACDistributionAir{index2}Supply]": {
+                                            "DuctInsulationRValue": {
+                                                "__reference__": "__double__"
+                                            },
+                                            "DuctLeakage": {
+                                                "TotalOrToOutside": {
+                                                    "__reference__": "DuctLeakageTotalOrToOutside"
+                                                },
+                                                "Units": {
+                                                    "__reference__": "DuctLeakageTestUnitofMeasure"
+                                                },
+                                                "Value": {
+                                                    "__reference__": "__double__"
+                                                }
+                                            },
+                                            "DuctType": {
+                                                "__reference__": "DuctType"
+                                            }
+                                        },
+                                        "Ducts[HVACDistribution{index2}Return]": {
+                                            "DuctInsulationRValue": {
+                                                "__reference__": "__double__"
+                                            },
+                                            "DuctType": {
+                                                "__reference__": "DuctType"
+                                            }
+                                        },
+                                        "Ducts[HVACDistribution{index2}Supply]": {
+                                            "DuctInsulationRValue": {
+                                                "__reference__": "__double__"
+                                            },
+                                            "DuctType": {
+                                                "__reference__": "DuctType"
+                                            }
+                                        },
+                                        "NumberofReturnRegisters": {
+                                            "__reference__": "__double__"
+                                        }
+                                    }
+                                }
+                            },
+                            "HVACDistribution[HVACDistributionHydronic{index}]": {
+                                "ConditionedFloorAreaServed": {
+                                    "__reference__": "__double__"
+                                },
+                                "DistributionSystemType": {
+                                    "HydronicDistribution": {
+                                        "HydronicDistributionType": {
+                                            "__reference__": "HydronicDistributionType"
+                                        }
+                                    }
+                                }
+                            },
+                            "HVACPlant[HVACPlant{index}]": {
+                                "CoolingSystem[CentralAirConditioner{index2}]": {
+                                    "AnnualCoolingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "CoolingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "CoolingSystemFuel": {
+                                        "__reference__": "FuelType"
+                                    },
+                                    "CoolingSystemType": {
+                                        "__reference__": "CoolingSystemType"
+                                    },
+                                    "FractionCoolLoadServed": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "CoolingSystem[EvaporativeCooler{index2}]": {
+                                    "CoolingSystemFuel": {
+                                        "__reference__": "FuelType"
+                                    },
+                                    "CoolingSystemType": {
+                                        "__reference__": "CoolingSystemType"
+                                    },
+                                    "FractionCoolLoadServed": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "CoolingSystem[RoomAirConditioner{index2}]": {
+                                    "AnnualCoolingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "CoolingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "CoolingSystemFuel": {
+                                        "__reference__": "FuelType"
+                                    },
+                                    "CoolingSystemType": {
+                                        "__reference__": "CoolingSystemType"
+                                    },
+                                    "FractionCoolLoadServed": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "HeatPump[ASHP{index2}]": {
+                                    "AnnualCoolingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "CoolingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "AnnualHeatingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "HeatingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "BackupAnnualHeatingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "HeatingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "BackupSystemFuel": {
+                                        "__reference__": "FuelType"
+                                    },
+                                    "CompressorType": {
+                                        "__reference__": "CompressorType"
+                                    },
+                                    "FractionCoolLoadServed": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "FractionHeatLoadServed": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "HeatPumpFuel": {
+                                        "__reference__": "FuelType"
+                                    },
+                                    "HeatPumpType": {
+                                        "__reference__": "HeatPumpType"
+                                    },
+                                    "YearInstalled": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "HeatPump[MiniSplitHP{index2}]": {
+                                    "AnnualCoolingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "CoolingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "AnnualHeatingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "HeatingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "BackupAnnualHeatingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "HeatingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "BackupSystemFuel": {
+                                        "__reference__": "FuelType"
+                                    },
+                                    "CompressorType": {
+                                        "__reference__": "CompressorType"
+                                    },
+                                    "FractionCoolLoadServed": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "FractionHeatLoadServed": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "HeatPumpFuel": {
+                                        "__reference__": "FuelType"
+                                    },
+                                    "HeatPumpType": {
+                                        "__reference__": "HeatPumpType"
+                                    }
+                                },
+                                "HeatingSystem[Boiler{index2}]": {
+                                    "AnnualHeatingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "HeatingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "FractionHeatLoadServed": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "HeatingSystemFuel": {
+                                        "__reference__": "FuelType"
+                                    },
+                                    "YearInstalled": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "HeatingSystem[ElectricResistance{index2}]": {
+                                    "AnnualHeatingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "HeatingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "FractionHeatLoadServed": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "HeatingSystemFuel": {
+                                        "__reference__": "FuelType"
+                                    }
+                                },
+                                "HeatingSystem[FloorFurnace{index2}]": {
+                                    "AnnualHeatingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "HeatingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "FractionHeatLoadServed": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "HeatingSystemFuel": {
+                                        "__reference__": "FuelType"
+                                    }
+                                },
+                                "HeatingSystem[Furnace{index2}]": {
+                                    "AnnualHeatingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "HeatingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "FractionHeatLoadServed": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "HeatingSystemFuel": {
+                                        "__reference__": "FuelType"
+                                    },
+                                    "YearInstalled": {
+                                        "__reference__": "__double__"
+                                    }
+                                },
+                                "HeatingSystem[PortableHeater{index2}]": {
+                                    "AnnualHeatingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "HeatingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "FractionHeatLoadServed": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "HeatingSystemFuel": {
+                                        "__reference__": "FuelType"
+                                    }
+                                },
+                                "HeatingSystem[Stove{index2}]": {
+                                    "AnnualHeatingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "HeatingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "FractionHeatLoadServed": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "HeatingSystemFuel": {
+                                        "__reference__": "FuelType"
+                                    }
+                                },
+                                "HeatingSystem[WallFurnace{index2}]": {
+                                    "AnnualHeatingEfficiency": {
+                                        "Units": {
+                                            "__reference__": "HeatingEfficiencyUnits"
+                                        },
+                                        "Value": {
+                                            "__reference__": "__double__"
+                                        }
+                                    },
+                                    "FractionHeatLoadServed": {
+                                        "__reference__": "__double__"
+                                    },
+                                    "HeatingSystemFuel": {
+                                        "__reference__": "FuelType"
+                                    }
+                                }
+                            }
+                        },
+                        "WaterHeating": {
+                            "HotWaterDistribution": {
+                                "PipeInsulation": {
+                                    "PipeRValue": {
+                                        "__reference__": "__double__"
+                                    }
+                                }
+                            },
+                            "WaterFixture[Faucet{index}]": {
+                                "LowFlow": {
+                                    "__reference__": "HPXMLBoolean"
+                                },
+                                "WaterFixtureType": {
+                                    "__reference__": "WaterFixtureType"
+                                }
+                            },
+                            "WaterFixture[Showerhead{index}]": {
+                                "LowFlow": {
+                                    "__reference__": "HPXMLBoolean"
+                                },
+                                "WaterFixtureType": {
+                                    "__reference__": "WaterFixtureType"
+                                }
+                            },
+                            "WaterHeatingSystem[WaterHeater{index}]": {
+                                "EnergyFactor": {
+                                    "__reference__": "__double__"
+                                },
+                                "FractionDHWLoadServed": {
+                                    "__reference__": "__double__"
+                                },
+                                "FuelType": {
+                                    "__reference__": "FuelType"
+                                },
+                                "HotWaterTemperature": {
+                                    "__reference__": "__double__"
+                                },
+                                "Location": {
+                                    "__reference__": "UnitLocation"
+                                },
+                                "TankVolume": {
+                                    "__reference__": "__double__"
+                                },
+                                "WaterHeaterType": {
+                                    "__reference__": "WaterHeaterType"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "default_json": {
+        "HPXML.Building.BuildingDetails.Appliances.ClothesDryer.SystemIdentifier.@id": "ClothesDryer",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesWasher.SystemIdentifier.@id": "ClothesWasher",
+        "HPXML.Building.BuildingDetails.Appliances.CookingRange.SystemIdentifier.@id": "CookingRange",
+        "HPXML.Building.BuildingDetails.Appliances.Oven.SystemIdentifier.@id": "Oven",
+        "HPXML.Building.BuildingDetails.Appliances.Refrigerator[Refrigerator{index}].SystemIdentifier.@id": "Refrigerator1",
+        "HPXML.Building.BuildingDetails.ClimateandRiskZones.WeatherStation.Name": "ALBANY COUNTY AP",
+        "HPXML.Building.BuildingDetails.ClimateandRiskZones.WeatherStation.SystemIdentifier": "WeatherStation",
+        "HPXML.Building.BuildingDetails.ClimateandRiskZones.WeatherStation.extension.EPWFilePath": "USA_NY_Albany.County.AP.725180_TMY3.epw",
+        "HPXML.Building.BuildingDetails.Enclosure.AirInfiltration.AirInfiltrationMeasurement.SystemIdentifier.@id": "InfiltrationMeasurement",
+        "HPXML.Building.BuildingDetails.Enclosure.Attics.Attic[AtticVented{index}].SystemIdentifier.@id": "noname",
+        "HPXML.Building.BuildingDetails.Enclosure.Attics.Attic[AtticVented{index}].VentilationRate": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Doors.Door[DoorNorth{index}].AttachedToWall.@idref": "WallExposed{index}",
+        "HPXML.Building.BuildingDetails.Enclosure.Doors.Door[DoorNorth{index}].SystemIdentifier.@id": "DoorNorth1",
+        "HPXML.Building.BuildingDetails.Enclosure.Doors.Door[DoorSouth{index}].AttachedToWall.@idref": "WallExposed{index}",
+        "HPXML.Building.BuildingDetails.Enclosure.Doors.Door[DoorSouth{index}].SystemIdentifier.@id": "DoorSouth1",
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedExposed{index}].Insulation.SystemIdentifier.@id": "FoundationWallBasementConditionedExposed{index}Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedExposed{index}].SystemIdentifier.@id": "FoundationWallBasementConditionedExposed{index}",
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedShared{index}].Insulation.SystemIdentifier.@id": "FoundationWallBasementConditionedShared1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedShared{index}].SystemIdentifier.@id": "FoundationWallBasementConditionedShared1",
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedToCrawlVented{index}].Insulation.SystemIdentifier.@id": "FoundationWallBasementConditionedToCrawl1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedToCrawlVented{index}].SystemIdentifier.@id": "FoundationWallBasementConditionedToCrawlVented{index}",
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedExposed{index}].Insulation.SystemIdentifier.@id": "FoundationWallCrawlspaceVentedExposed1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedExposed{index}].SystemIdentifier.@id": "FoundationWallCrawlspaceVentedExposed1",
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedShared{index}.Insulation.SystemIdentifier.@id": "FoundationWallCrawlspaceVentedShared1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedShared{index}.SystemIdentifier.@id": "FoundationWallCrawlspaceVentedShared1",
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedShared{index}].Insulation.SystemIdentifier.@id": "FoundationWallCrawlspaceVentedShared1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedShared{index}].SystemIdentifier.@id": "FoundationWallCrawlspaceVentedShared1",
+        "HPXML.Building.BuildingDetails.Enclosure.Foundations.Foundation[BasementConditioned{index}].SystemIdentifier.@id": "BasementConditioned1",
+        "HPXML.Building.BuildingDetails.Enclosure.Foundations.Foundation[CrawlspaceVented{index}].SystemIdentifier.@id": "CrawlspaceVented1",
+        "HPXML.Building.BuildingDetails.Enclosure.Foundations.Foundation[SlabFoundation{index}].FoundationType.SlabOnGrade": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Foundations.Foundation[SlabFoundation{index}].SystemIdentifier.@id": "SlabFoundation1",
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorAboveConditionedBasement{index}].Insulation.SystemIdentifier.@id": "FloorAboveConditionedBasement{index}Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorAboveConditionedBasement{index}].SystemIdentifier.@id": "FloorAboveConditionedBasement{index}",
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorAboveVentedCrawl{index}].Insulation.SystemIdentifier.@id": "FloorAboveVentedCrawl1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorAboveVentedCrawl{index}].SystemIdentifier.@id": "FloorAboveVentedCrawl1",
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorBelowAttic{index}].Insulation.SystemIdentifier.@id": "FloorBelowAttic1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorBelowAttic{index}].SystemIdentifier.@id": "FloorBelowAttic1",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedExposed{index}].Insulation.SystemIdentifier.@id": "RimJoistBasementConditionedExposed{index}Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedExposed{index}].SystemIdentifier.@id": "RimJoistBasementConditionedExposed{index}",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedShared{index}].Insulation.SystemIdentifier.@id": "RimJoistBasementConditionedShared1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedShared{index}].SystemIdentifier.@id": "RimJoistBasementConditionedShared1",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedExposed{index}].Insulation.SystemIdentifier.@id": "RimJoistCrawlspaceVentedExposed1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedExposed{index}].SystemIdentifier.@id": "RimJoistCrawlspaceVentedExposed1",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedShared{index}.Insulation.SystemIdentifier.@id": "RimJoistCrawlspaceVentedShared1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedShared{index}.SystemIdentifier.@id": "RimJoistCrawlspaceVentedShared1",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedShared{index}].Insulation.SystemIdentifier.@id": "RimJoistCrawlspaceVentedShared1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedShared{index}].SystemIdentifier.@id": "RimJoistCrawlspaceVentedShared1",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Exposed].Insulation.SystemIdentifier.@id": "RimJoistStory3ExposedInsulation",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Exposed].SystemIdentifier.@id": "RimJoistStory2Exposed",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Shared].Insulation.SystemIdentifier.@id": "RimJoistStory1SharedInsulation",
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Shared].SystemIdentifier.@id": "RimJoistStory2Shared",
+        "HPXML.Building.BuildingDetails.Enclosure.Roofs.Roof[Roof{index}].Insulation.SystemIdentifier.@id": "Roof1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.Roofs.Roof[Roof{index}].SystemIdentifier.@id": "Roof1",
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].PerimeterInsulation.SystemIdentifier.@id": "SlabOfBasementConditioned{index}PerimeterInsulation",
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].SystemIdentifier.@id": "SlabOfBasementConditioned{index}",
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].UnderSlabInsulation.SystemIdentifier.@id": "SlabOfBasementConditioned{index}UnderSlabInsulation",
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].PerimeterInsulation.SystemIdentifier.@id": "SlabOnGrade1PerimeterInsulation",
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].SystemIdentifier.@id": "SlabOnGrade1",
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].UnderSlabInsulation.SystemIdentifier.@id": "SlabOnGrade1UnderSlabInsulation",
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].PerimeterInsulation.SystemIdentifier.@id": "SlabUnderCrawlspaceVented1PerimeterInsulation",
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].SystemIdentifier.@id": "SlabUnderCrawlspaceVented1",
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].UnderSlabInsulation.SystemIdentifier.@id": "SlabUnderCrawlspaceVented1UnderSlabInsulation",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].Insulation.SystemIdentifier.@id": "WallExposed{index}Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].SystemIdentifier.@id": "WallExposed{index}",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].WallType.Adobe": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].WallType.ConcreteMasonryUnit": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].WallType.LogWall": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].WallType.SolidConcrete": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].WallType.SteelFrame": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].WallType.Stone": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].WallType.StructuralBrick": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].WallType.WoodStud": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}.Insulation.SystemIdentifier.@id": "WallShared1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}.SystemIdentifier.@id": "WallShared1",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].Insulation.SystemIdentifier.@id": "WallShared1Insulation",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].SystemIdentifier.@id": "WallShared1",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].WallType.Adobe": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].WallType.ConcreteMasonryUnit": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].WallType.LogWall": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].WallType.SolidConcrete": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].WallType.SteelFrame": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].WallType.Stone": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].WallType.StructuralBrick": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].WallType.WoodStud": "",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowEast{index}].AttachedToWall.@idref": "DummyID",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowEast{index}].SystemIdentifier.@id": "WindowEast1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorthEast{index}].AttachedToWall.@idref": "WallExposed1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorthEast{index}].SystemIdentifier.@id": "WindowNorthEast1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorthWest{index}].AttachedToWall.@idref": "WallExposed1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorthWest{index}].SystemIdentifier.@id": "WindowNorthWest1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorth{index}].AttachedToWall.@idref": "WallExposed1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorth{index}].SystemIdentifier.@id": "WindowNorth1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouthEast{index}].AttachedToWall.@idref": "WallExposed1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouthEast{index}].SystemIdentifier.@id": "WindowSouthEast1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouthWest{index}].AttachedToWall.@idref": "WallExposed1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouthWest{index}].SystemIdentifier.@id": "WindowSouthWest1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouth{index}].AttachedToWall.@idref": "WallExposed1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouth{index}].SystemIdentifier.@id": "WindowSouth1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowWest{index}].AttachedToWall.@idref": "WallExposed1",
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowWest{index}].SystemIdentifier.@id": "WindowWest1",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingExteriorCFL{index}].LightingType.CompactFluorescent": "",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingExteriorCFL{index}].SystemIdentifier.@id": "LightingExteriorCFL1",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingExteriorLED{index}].LightingType.LightEmittingDiode": "",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingExteriorLED{index}].SystemIdentifier.@id": "LightingExteriorLED1",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingExteriorLFL{index}].LightingType.FluorescentTube": "",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingExteriorLFL{index}].SystemIdentifier.@id": "LightingExteriorLFL1",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingGarageCFL{index}].LightingType.CompactFluorescent": "",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingGarageCFL{index}].SystemIdentifier.@id": "LightingGarageCFL1",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingGarageLED{index}].LightingType.LightEmittingDiode": "",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingGarageLED{index}].SystemIdentifier.@id": "LightingGarageLED1",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingGarageLFL{index}].LightingType.FluorescentTube": "",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingGarageLFL{index}].SystemIdentifier.@id": "LightingGarageLFL1",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingInteriorCFL{index}].LightingType.CompactFluorescent": "",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingInteriorCFL{index}].SystemIdentifier.@id": "LightingInteriorCFL1",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingInteriorLED{index}].LightingType.LightEmittingDiode": "",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingInteriorLED{index}].SystemIdentifier.@id": "LightingInteriorLED1",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingInteriorLFL{index}].LightingType.FluorescentTube": "",
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingInteriorLFL{index}].SystemIdentifier.@id": "LightingInteriorLFL1",
+        "HPXML.Building.BuildingDetails.MiscLoads.PlugLoad[PlugLoad{index}].SystemIdentifier.@id": "PlugLoadMisc1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACControl.SystemIdentifier.@id": "HVACControl1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].SystemIdentifier.@id": "HVACDistributionFurnaceAndCentralAC1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionHydronic{index}].SystemIdentifier.@id": "HVACDistributionHydronic1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[CentralAirConditioner{index2}].DistributionSystem.@idref": "HVACDistributionFurnaceAndCentralAC1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[CentralAirConditioner{index2}].SystemIdentifier.@id": "CentralAirConditioner1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[EvaporativeCooler{index2}].SystemIdentifier.@id": "EvaporativeCooler1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[RoomAirConditioner{index2}].SystemIdentifier.@id": "RoomAirConditioner1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].DistributionSystem.@idref": "HVACDistributionASHP1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].SystemIdentifier.@id": "ASHP1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].SystemIdentifier.@id": "MiniSplitHP2",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Boiler{index2}].DistributionSystem.@idref": "HVACDistributionHydronic1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Boiler{index2}].HeatingSystemType.Boiler": "",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Boiler{index2}].SystemIdentifier.@id": "Boiler1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[ElectricResistance{index2}].HeatingSystemType.ElectricResistance": "",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[ElectricResistance{index2}].SystemIdentifier.@id": "ElectricResistance1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[FloorFurnace{index2}].HeatingSystemType.FloorFurnace": "",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[FloorFurnace{index2}].SystemIdentifier.@id": "FloorFurnace1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Furnace{index2}].DistributionSystem.@idref": "HVACDistributionFurnaceAndCentralAC1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Furnace{index2}].HeatingSystemType.Furnace": "",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Furnace{index2}].SystemIdentifier.@id": "Furnace1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[PortableHeater{index2}].HeatingSystemType.PortableHeater": "",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[PortableHeater{index2}].SystemIdentifier.@id": "PortableHeater1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Stove{index2}].HeatingSystemType.Stove": "",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Stove{index2}].SystemIdentifier.@id": "Stove1",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[WallFurnace{index2}].HeatingSystemType.WallFurnace": "",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[WallFurnace{index2}].SystemIdentifier.@id": "WallFurnace1",
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.HotWaterDistribution.SystemIdentifier.@id": "HotWaterDistribution",
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.HotWaterDistribution.SystemType.Standard": "",
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterFixture[Faucet{index}].SystemIdentifier.@id": "Faucet1",
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterFixture[Showerhead{index}].SystemIdentifier.@id": "Showerhead1",
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterHeatingSystem[WaterHeater{index}].SystemIdentifier.@id": "WaterHeater1",
+        "HPXML.Building.BuildingID.@id": "BaseBuilding",
+        "HPXML.Building.ProjectStatus.EventType": "proposed workscope",
+        "HPXML.SoftwareInfo.extension.HVACSizingControl.AllowIncreasedFixedCapacities": "false",
+        "HPXML.SoftwareInfo.extension.HVACSizingControl.UseMaxLoadForHeatPumps": "false",
+        "HPXML.SoftwareInfo.extension.SimulationControl.Timestep": 60,
+        "HPXML.XMLTransactionHeaderInformation.CreatedDateAndTime": "2022-06-15T07:50:15.430+00:00",
+        "HPXML.XMLTransactionHeaderInformation.XMLGeneratedBy": "Radiant Labs",
+        "HPXML.XMLTransactionHeaderInformation.XMLType": "OS-HPXML"
+    },
+    "enumerated_variables": {
+        "HPXML.Building.BuildingDetails.Appliances.Refrigerator[Refrigerator{index}].Location": 3,
+        "HPXML.Building.BuildingDetails.Appliances.Refrigerator[Refrigerator{index}].PrimaryIndicator": 3,
+        "HPXML.Building.BuildingDetails.Appliances.Refrigerator[Refrigerator{index}].RatedAnnualkWh": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Attics.Attic[AtticVented{index}].AtticType.Attic.Vented": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.Doors.Door[DoorNorth{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Doors.Door[DoorNorth{index}].Azimuth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Doors.Door[DoorNorth{index}].RValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Doors.Door[DoorSouth{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Doors.Door[DoorSouth{index}].Azimuth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Doors.Door[DoorSouth{index}].RValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedExposed{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedExposed{index}].DepthBelowGrade": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedExposed{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedExposed{index}].Height": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedExposed{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedExposed{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedExposed{index}].Thickness": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedShared{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedShared{index}].DepthBelowGrade": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedShared{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedShared{index}].Height": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedShared{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedShared{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedShared{index}].Thickness": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedToCrawlVented{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedToCrawlVented{index}].DepthBelowGrade": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedToCrawlVented{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedToCrawlVented{index}].Height": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedToCrawlVented{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedToCrawlVented{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallBasementConditionedToCrawlVented{index}].Thickness": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedExposed{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedExposed{index}].DepthBelowGrade": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedExposed{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedExposed{index}].Height": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedExposed{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedExposed{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedExposed{index}].Thickness": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedShared{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedShared{index}].DepthBelowGrade": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedShared{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedShared{index}].Height": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedShared{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedShared{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FoundationWalls.FoundationWall[FoundationWallCrawlspaceVentedShared{index}].Thickness": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Foundations.Foundation[BasementConditioned{index}].FoundationType.Basement.Conditioned": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Foundations.Foundation[CrawlspaceVented{index}].FoundationType.Crawlspace.Vented": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorAboveConditionedBasement{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorAboveConditionedBasement{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorAboveConditionedBasement{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorAboveConditionedBasement{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorAboveVentedCrawl{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorAboveVentedCrawl{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorAboveVentedCrawl{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorAboveVentedCrawl{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorBelowAttic{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorBelowAttic{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorBelowAttic{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.FrameFloors.FrameFloor[FloorBelowAttic{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedExposed{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedExposed{index}].Emittance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedExposed{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedExposed{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedExposed{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedExposed{index}].SolarAbsorptance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedShared{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedShared{index}].Emittance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedShared{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedShared{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedShared{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistBasementConditionedShared{index}].SolarAbsorptance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedExposed{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedExposed{index}].Emittance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedExposed{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedExposed{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedExposed{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedExposed{index}].SolarAbsorptance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedShared{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedShared{index}].Emittance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedShared{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedShared{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedShared{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistCrawlspaceVentedShared{index}].SolarAbsorptance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Exposed].Area": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Exposed].Emittance": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Exposed].ExteriorAdjacentTo": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Exposed].Insulation.AssemblyEffectiveRValue": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Exposed].InteriorAdjacentTo": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Exposed].SolarAbsorptance": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Shared].Area": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Shared].Emittance": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Shared].ExteriorAdjacentTo": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Shared].Insulation.AssemblyEffectiveRValue": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Shared].InteriorAdjacentTo": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.RimJoists.RimJoist[RimJoistStory{index}Shared].SolarAbsorptance": 5,
+        "HPXML.Building.BuildingDetails.Enclosure.Roofs.Roof[Roof{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Roofs.Roof[Roof{index}].Emittance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Roofs.Roof[Roof{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Roofs.Roof[Roof{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Roofs.Roof[Roof{index}].Pitch": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Roofs.Roof[Roof{index}].RadiantBarrier": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Roofs.Roof[Roof{index}].RoofColor": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Roofs.Roof[Roof{index}].RoofType": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].ExposedPerimeter": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].PerimeterInsulation.Layer.InstallationType": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].PerimeterInsulation.Layer.NominalRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].PerimeterInsulationDepth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].Thickness": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].UnderSlabInsulation.Layer.InstallationType": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].UnderSlabInsulation.Layer.NominalRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].UnderSlabInsulationWidth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].extension.CarpetFraction": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOfBasementConditioned{index}].extension.CarpetRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].DepthBelowGrade": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].ExposedPerimeter": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].PerimeterInsulation.Layer.InstallationType": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].PerimeterInsulation.Layer.NominalRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].PerimeterInsulationDepth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].Thickness": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].UnderSlabInsulation.Layer.InstallationType": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].UnderSlabInsulation.Layer.NominalRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].UnderSlabInsulationWidth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].extension.CarpetFraction": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabOnGrade{index}].extension.CarpetRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].ExposedPerimeter": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].PerimeterInsulation.Layer.InstallationType": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].PerimeterInsulation.Layer.NominalRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].PerimeterInsulationDepth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].Thickness": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].UnderSlabInsulation.Layer.InstallationType": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].UnderSlabInsulation.Layer.NominalRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].UnderSlabInsulationWidth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].extension.CarpetFraction": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Slabs.Slab[SlabUnderCrawlspaceVented{index}].extension.CarpetRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].Emittance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].Siding": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallExposed{index}].SolarAbsorptance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].Emittance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].ExteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].Insulation.AssemblyEffectiveRValue": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].InteriorAdjacentTo": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Walls.Wall[WallShared{index}].SolarAbsorptance": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowEast{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowEast{index}].Azimuth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowEast{index}].SHGC": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowEast{index}].UFactor": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorthEast{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorthEast{index}].Azimuth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorthEast{index}].SHGC": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorthEast{index}].UFactor": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorthWest{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorthWest{index}].Azimuth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorthWest{index}].SHGC": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorthWest{index}].UFactor": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorth{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorth{index}].Azimuth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorth{index}].SHGC": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowNorth{index}].UFactor": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouthEast{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouthEast{index}].Azimuth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouthEast{index}].SHGC": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouthEast{index}].UFactor": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouthWest{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouthWest{index}].Azimuth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouthWest{index}].SHGC": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouthWest{index}].UFactor": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouth{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouth{index}].Azimuth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouth{index}].SHGC": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowSouth{index}].UFactor": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowWest{index}].Area": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowWest{index}].Azimuth": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowWest{index}].SHGC": 3,
+        "HPXML.Building.BuildingDetails.Enclosure.Windows.Window[WindowWest{index}].UFactor": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingExteriorCFL{index}].FractionofUnitsInLocation": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingExteriorCFL{index}].Location": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingExteriorLED{index}].FractionofUnitsInLocation": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingExteriorLED{index}].Location": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingExteriorLFL{index}].FractionofUnitsInLocation": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingExteriorLFL{index}].Location": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingGarageCFL{index}].FractionofUnitsInLocation": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingGarageCFL{index}].Location": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingGarageLED{index}].FractionofUnitsInLocation": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingGarageLED{index}].Location": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingGarageLFL{index}].FractionofUnitsInLocation": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingGarageLFL{index}].Location": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingInteriorCFL{index}].FractionofUnitsInLocation": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingInteriorCFL{index}].Location": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingInteriorLED{index}].FractionofUnitsInLocation": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingInteriorLED{index}].Location": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingInteriorLFL{index}].FractionofUnitsInLocation": 3,
+        "HPXML.Building.BuildingDetails.Lighting.LightingGroup[LightingInteriorLFL{index}].Location": 3,
+        "HPXML.Building.BuildingDetails.MiscLoads.PlugLoad[PlugLoad{index}].PlugLoadType": 3,
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].ConditionedFloorAreaServed": 3,
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.AirDistributionType": 3,
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.DuctLeakageMeasurement[HVACDistributionAir{index2}Return].DuctLeakage.TotalOrToOutside": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.DuctLeakageMeasurement[HVACDistributionAir{index2}Return].DuctLeakage.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.DuctLeakageMeasurement[HVACDistributionAir{index2}Return].DuctLeakage.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.DuctLeakageMeasurement[HVACDistributionAir{index2}Return].DuctType": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.DuctLeakageMeasurement[HVACDistributionAir{index2}Supply].DuctLeakage.TotalOrToOutside": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.DuctLeakageMeasurement[HVACDistributionAir{index2}Supply].DuctLeakage.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.DuctLeakageMeasurement[HVACDistributionAir{index2}Supply].DuctLeakage.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.DuctLeakageMeasurement[HVACDistributionAir{index2}Supply].DuctType": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.Ducts[HVACDistribution{index2}Return].DuctInsulationRValue": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.Ducts[HVACDistribution{index2}Return].DuctType": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.Ducts[HVACDistribution{index2}Supply].DuctInsulationRValue": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.Ducts[HVACDistribution{index2}Supply].DuctType": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionAir{index}].DistributionSystemType.AirDistribution.NumberofReturnRegisters": 3,
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionHydronic{index}].ConditionedFloorAreaServed": 3,
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACDistribution[HVACDistributionHydronic{index}].DistributionSystemType.HydronicDistribution.HydronicDistributionType": 3,
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[CentralAirConditioner{index2}].AnnualCoolingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[CentralAirConditioner{index2}].AnnualCoolingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[CentralAirConditioner{index2}].CoolingSystemFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[CentralAirConditioner{index2}].CoolingSystemType": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[CentralAirConditioner{index2}].FractionCoolLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[EvaporativeCooler{index2}].CoolingSystemFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[EvaporativeCooler{index2}].CoolingSystemType": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[EvaporativeCooler{index2}].FractionCoolLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[RoomAirConditioner{index2}].AnnualCoolingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[RoomAirConditioner{index2}].AnnualCoolingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[RoomAirConditioner{index2}].CoolingSystemFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[RoomAirConditioner{index2}].CoolingSystemType": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].CoolingSystem[RoomAirConditioner{index2}].FractionCoolLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].AnnualCoolingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].AnnualCoolingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].AnnualHeatingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].AnnualHeatingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].BackupAnnualHeatingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].BackupAnnualHeatingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].BackupSystemFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].CompressorType": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].FractionCoolLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].FractionHeatLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].HeatPumpFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].HeatPumpType": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[ASHP{index2}].YearInstalled": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].AnnualCoolingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].AnnualCoolingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].AnnualHeatingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].AnnualHeatingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].BackupAnnualHeatingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].BackupAnnualHeatingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].BackupSystemFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].CompressorType": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].FractionCoolLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].FractionHeatLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].HeatPumpFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatPump[MiniSplitHP{index2}].HeatPumpType": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Boiler{index2}].AnnualHeatingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Boiler{index2}].AnnualHeatingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Boiler{index2}].FractionHeatLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Boiler{index2}].HeatingSystemFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Boiler{index2}].YearInstalled": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[ElectricResistance{index2}].AnnualHeatingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[ElectricResistance{index2}].AnnualHeatingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[ElectricResistance{index2}].FractionHeatLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[ElectricResistance{index2}].HeatingSystemFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[FloorFurnace{index2}].AnnualHeatingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[FloorFurnace{index2}].AnnualHeatingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[FloorFurnace{index2}].FractionHeatLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[FloorFurnace{index2}].HeatingSystemFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Furnace{index2}].AnnualHeatingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Furnace{index2}].AnnualHeatingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Furnace{index2}].FractionHeatLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Furnace{index2}].HeatingSystemFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Furnace{index2}].YearInstalled": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[PortableHeater{index2}].AnnualHeatingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[PortableHeater{index2}].AnnualHeatingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[PortableHeater{index2}].FractionHeatLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[PortableHeater{index2}].HeatingSystemFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Stove{index2}].AnnualHeatingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Stove{index2}].AnnualHeatingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Stove{index2}].FractionHeatLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[Stove{index2}].HeatingSystemFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[WallFurnace{index2}].AnnualHeatingEfficiency.Units": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[WallFurnace{index2}].AnnualHeatingEfficiency.Value": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[WallFurnace{index2}].FractionHeatLoadServed": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACPlant[HVACPlant{index}].HeatingSystem[WallFurnace{index2}].HeatingSystemFuel": [
+            3,
+            2
+        ],
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterFixture[Faucet{index}].LowFlow": 3,
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterFixture[Faucet{index}].WaterFixtureType": 3,
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterFixture[Showerhead{index}].LowFlow": 3,
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterFixture[Showerhead{index}].WaterFixtureType": 3,
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterHeatingSystem[WaterHeater{index}].EnergyFactor": 3,
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterHeatingSystem[WaterHeater{index}].FractionDHWLoadServed": 3,
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterHeatingSystem[WaterHeater{index}].FuelType": 3,
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterHeatingSystem[WaterHeater{index}].HotWaterTemperature": 3,
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterHeatingSystem[WaterHeater{index}].Location": 3,
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterHeatingSystem[WaterHeater{index}].TankVolume": 3,
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.WaterHeatingSystem[WaterHeater{index}].WaterHeaterType": 3
+    },
+    "mapping_order": [
+        "HPXML.Building.BuildingDetails.Appliances.ClothesDryer.CombinedEnergyFactor",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesDryer.ControlType",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesDryer.FuelType",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesDryer.Location",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesDryer.extension.IsVented",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesDryer.extension.VentedFlowRate",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesWasher.Capacity",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesWasher.IntegratedModifiedEnergyFactor",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesWasher.LabelAnnualGasCost",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesWasher.LabelElectricRate",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesWasher.LabelGasRate",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesWasher.LabelUsage",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesWasher.Location",
+        "HPXML.Building.BuildingDetails.Appliances.ClothesWasher.RatedAnnualkWh",
+        "HPXML.Building.BuildingDetails.Appliances.CookingRange.FuelType",
+        "HPXML.Building.BuildingDetails.Appliances.CookingRange.IsInduction",
+        "HPXML.Building.BuildingDetails.Appliances.CookingRange.Location",
+        "HPXML.Building.BuildingDetails.Appliances.Oven.IsConvection",
+        "HPXML.Building.BuildingDetails.BuildingSummary.BuildingConstruction.AverageCeilingHeight",
+        "HPXML.Building.BuildingDetails.BuildingSummary.BuildingConstruction.ConditionedFloorArea",
+        "HPXML.Building.BuildingDetails.BuildingSummary.BuildingConstruction.NumberofBathrooms",
+        "HPXML.Building.BuildingDetails.BuildingSummary.BuildingConstruction.NumberofBedrooms",
+        "HPXML.Building.BuildingDetails.BuildingSummary.BuildingConstruction.NumberofConditionedFloors",
+        "HPXML.Building.BuildingDetails.BuildingSummary.BuildingConstruction.NumberofConditionedFloorsAboveGrade",
+        "HPXML.Building.BuildingDetails.BuildingSummary.BuildingConstruction.ResidentialFacilityType",
+        "HPXML.Building.BuildingDetails.BuildingSummary.BuildingOccupancy.NumberofResidents",
+        "HPXML.Building.BuildingDetails.ClimateandRiskZones.ClimateZoneIECC.ClimateZone",
+        "HPXML.Building.BuildingDetails.ClimateandRiskZones.ClimateZoneIECC.Year",
+        "HPXML.Building.BuildingDetails.Enclosure.AirInfiltration.AirInfiltrationMeasurement.BuildingAirLeakage.AirLeakage",
+        "HPXML.Building.BuildingDetails.Enclosure.AirInfiltration.AirInfiltrationMeasurement.BuildingAirLeakage.UnitofMeasure",
+        "HPXML.Building.BuildingDetails.Enclosure.AirInfiltration.AirInfiltrationMeasurement.HousePressure",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACControl.ControlType",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACControl.SetbackTempHeatingSeason",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACControl.SetpointTempCoolingSeason",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACControl.SetpointTempHeatingSeason",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACControl.SetupTempCoolingSeason",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACControl.TotalSetbackHoursperWeekHeating",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACControl.TotalSetupHoursperWeekCooling",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACControl.extension.SetbackStartHourHeating",
+        "HPXML.Building.BuildingDetails.Systems.HVAC.HVACControl.extension.SetupStartHourCooling",
+        "HPXML.Building.BuildingDetails.Systems.WaterHeating.HotWaterDistribution.PipeInsulation.PipeRValue"
+    ],
+    "special_keys_for_json_forming": {
+        "HPXML.Building.Site.Address.Address1": "FULL_ADDRESS",
+        "HPXML.Building.Site.Address.AddressType": "ADDRESS_TYPE",
+        "HPXML.Building.Site.Address.CityMunicipality": "CITY",
+        "HPXML.Building.Site.Address.StateCode": "STATE",
+        "HPXML.Building.Site.Address.ZipCode": "ZIPCODE",
+        "HPXML.Building.Site.SiteID.@id": "VENDOR_ID",
+        "HPXML.XMLTransactionHeaderInformation.CreatedDateAndTime": "CURRENT_DATETIME"
+    }
+}
